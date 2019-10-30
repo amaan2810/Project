@@ -1,0 +1,12 @@
+Age:
+-mean: 29.65, std: 14.5
+-random values between [(mean-std) & (mean+std)]
+i.e. [15 & 43]
+
+
+Cabin:
+-Drop
+
+
+Embarked:
+-Impute with mode

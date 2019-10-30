@@ -1,0 +1,18 @@
+-describe()
+
+-missing value % tab
+
+-pairplot
+
+-correlation heatmap
+
+-age & sex histogram(dropna()) hue = survived
+
+>embarked facetgrid
+
+>pclass facetgrid
+
+-countplot pclass hue=survived
+
+>factorplot pclass, embarked, hue=sex
+

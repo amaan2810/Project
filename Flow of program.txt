@@ -1,0 +1,26 @@
+import libraries and read the data
+
+data exploration
+-% of missing values
+-plot the explorations
+-correlations(heatmap)
+
+feature engineering
+
+train test split
+
+build ML models for cross val
+-check cross val score and select best model
+-check/plot feature importance
+-remove low-score feature(score didnt improve on removing)
+
+fit the model
+
+print all performance metrics before tuning
+
+hyperparameter tuning using grid search
+-fit the model with best params
+
+print all performance metrics after tuning
+
+summary/conclusion

@@ -1,0 +1,34 @@
+drop
+-PassengerId, Cabin, ticket
+
+Age:
+-fill na with random numbers between:
+[mean-std & mean+std] i.e. [29-14 & 29+14]
+-convert to int
+
+
+Embarked:
+-fill na with mode (S)
+
+
+Fare:
+-convert to int
+
+
+Name:
+-create a new column named Title which has
+Mr.
+Mrs.
+Master.
+Miss.
+Misc
+-drop name after creating title
+
+
+Dummy variables:
+-Pclass, Sex, Embarked, Title
+
+No action:
+-Parch, SibSp
+
+Merge the int & dummy columns

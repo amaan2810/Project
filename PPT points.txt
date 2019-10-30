@@ -1,0 +1,8 @@
+PPT points:-
+
+type of problem
+which algorithms apply
+full eda details: missing, null, which imputation used
+feature engg: dummy or label encoding, mention which one
+model fitting:
+hyperparameter optimization
